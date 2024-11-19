@@ -10,8 +10,6 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000)
-But this link is not working correctly here is my link to page
-[![my_dybamuc_form](https://my-dynamic-form-liard.vercel.app/)]
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
